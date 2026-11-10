@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.ssr/
+verificacao/
+.DS_Store
+.idea/
+pnpm-lock.yaml

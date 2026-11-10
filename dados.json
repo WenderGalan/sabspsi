@@ -1,0 +1,113 @@
+{
+  "site": {
+    "nome": "SabsPsi",
+    "tituloAba": "Psicologia infantil em Campo Grande: escuta e infância | SabsPsi",
+    "descricao": "Conheça Sabrina Galan, estudante de Psicologia em Campo Grande (MS), e seu olhar sobre psicologia infantil, escuta das crianças, brincar e saúde mental na infância.",
+    "idioma": "pt-BR",
+    "urlPublica": "",
+    "imagemCompartilhamento": "/imagens/sabrina-retrato.jpg"
+  },
+  "acessibilidade": {
+    "pular": "Ir para o conteúdo",
+    "navegacao": "Navegação principal"
+  },
+  "pessoa": {
+    "nome": "Sabrina Galan",
+    "apresentacao": "Sou Sabrina, estudante de Psicologia no 8º semestre, em Campo Grande, MS.",
+    "formacao": "Estudante de Psicologia · 8º semestre",
+    "cidade": "Campo Grande, MS",
+    "interesses": "Psicanálise, infância e saúde mental",
+    "temas": ["Psicologia infantil", "Escuta infantil", "Psicanálise", "Saúde mental na infância"],
+    "fotoPrincipal": "/imagens/sabrina-retrato.jpg",
+    "fotoSecundaria": "/imagens/sabrina-vivencia.jpg",
+    "fotoLivro": "/imagens/sabrina-livro.jpg",
+    "fotoPrincipalAlt": "Sabrina sorrindo ao ar livre, sentada entre árvores",
+    "fotoSecundariaAlt": "Sabrina sorrindo ao ar livre com jaleco de Psicologia",
+    "fotoLivroAlt": "Sabrina segurando um livro infantil ao ar livre"
+  },
+  "navegacao": {
+    "abrir": "Menu",
+    "fechar": "Fechar",
+    "sobre": "Quem sou",
+    "olhar": "Meu olhar",
+    "trajetoria": "Trajetória",
+    "contato": "Vamos conversar"
+  },
+  "abertura": {
+    "selo": "Psicologia infantil em Campo Grande, MS",
+    "tituloLinha1": "Todo mundo",
+    "tituloLinha2": "tem um mundo",
+    "tituloLinha3": "dentro de si.",
+    "texto": "O mundo da criança também merece tempo, espaço e escuta.",
+    "chamada": "Conheça meu olhar",
+    "nota": "Um espaço para pensar a infância com delicadeza e responsabilidade."
+  },
+  "sobre": {
+    "marcador": "Prazer, Sabrina",
+    "titulo": "Antes de tudo, uma pessoa disposta a escutar.",
+    "texto1": "Acredito que cada criança encontra um jeito próprio de mostrar o que vive. Às vezes, esse jeito aparece numa palavra. Outras vezes, numa brincadeira, num silêncio ou num gesto.",
+    "texto2": "É esse universo singular que me aproxima da psicologia infantil e da psicanálise. Em Campo Grande, MS, sigo construindo meu caminho como estudante, com interesse na escuta sensível e respeitosa de crianças.",
+    "legenda": "Sabrina Galan · Campo Grande, MS"
+  },
+  "olhar": {
+    "marcador": "Meu olhar para a infância",
+    "titulo": "Nem tudo o que a criança sente cabe em palavras.",
+    "texto": "Na psicologia infantil, o brincar, o desenho, as perguntas e os silêncios podem abrir caminhos para compreender o mundo interno da criança. Escutar também é observar com cuidado, sem pressa de dar um nome ao que aparece.",
+    "frase": "A infância não espera a vida adulta para sentir."
+  },
+  "escuta": {
+    "marcador": "Além das palavras",
+    "titulo": "E se a gente escutasse o que ainda não foi dito?",
+    "introducao": "Cada criança tem sua própria forma de se expressar.",
+    "reflexoes": [
+      { "titulo": "No brincar", "texto": "Uma história inventada pode dar forma a algo difícil de contar." },
+      { "titulo": "No silêncio", "texto": "O tempo de não falar também pode pedir presença e respeito." },
+      { "titulo": "Nos gestos", "texto": "Pequenas mudanças podem convidar a uma pergunta mais cuidadosa." }
+    ],
+    "conclusao": "Escutar é abrir espaço para descobrir, junto com a criança, os sentidos do que ela vive."
+  },
+  "trajetoria": {
+    "marcador": "Um caminho em construção",
+    "titulo": "Cuidado se aprende também no encontro.",
+    "texto": "Minha formação se constrói entre estudo, escuta e experiências de acolhimento. Participei de ações voluntárias com o projeto Doutores do Reino e com a Cruz Vermelha, encontros que ampliaram meu olhar para diferentes formas de cuidado.",
+    "nota": "Atualmente, sou estudante de Psicologia no 8º semestre. Meu interesse de estudo está na infância e na psicanálise.",
+    "experiencias": ["Doutores do Reino", "Cruz Vermelha", "Psicologia · 8º semestre"]
+  },
+  "perguntas": {
+    "marcador": "Para pensar juntos",
+    "titulo": "Perguntas sobre a escuta na infância.",
+    "itens": [
+      {
+        "pergunta": "O que é escuta infantil?",
+        "resposta": "É prestar atenção ao que uma criança expressa com palavras, brincadeiras, desenhos, gestos e silêncios. Cada forma de comunicação merece ser compreendida em seu contexto, sem conclusões apressadas."
+      },
+      {
+        "pergunta": "Por que o brincar importa para a criança?",
+        "resposta": "Ao brincar, a criança cria histórias, experimenta papéis e encontra maneiras próprias de compartilhar experiências. Por isso, o brincar é uma parte importante do olhar para a infância."
+      },
+      {
+        "pergunta": "Sabrina realiza atendimento psicológico infantil?",
+        "resposta": "Sabrina está no 8º semestre de Psicologia e este site apresenta sua trajetória e seus interesses de estudo. Ela não anuncia atendimento psicológico particular. Você pode entrar em contato para conhecer seu trabalho e tirar dúvidas."
+      }
+    ]
+  },
+  "contato": {
+    "marcador": "Um convite",
+    "titulo": "Uma conversa pode ser o começo.",
+    "texto": "Quer conhecer minha trajetória ou tirar dúvidas sobre as possibilidades de cuidado para uma criança? Fique à vontade para me escrever.",
+    "botao": "Conversar pelo WhatsApp",
+    "mensagemWhatsapp": "Olá, Sabrina! Conheci o SabsPsi e gostaria de tirar uma dúvida.",
+    "telefoneExibido": "+55 67 8124-1311",
+    "telefoneWhatsapp": "556781241311",
+    "instagramExibido": "@sabspsi",
+    "instagramUrl": "https://www.instagram.com/sabspsi/",
+    "notaProfissional": "Sabrina é estudante de Psicologia. Este site apresenta sua trajetória e interesses; não anuncia atendimento psicológico particular.",
+    "rodape": "Feito com escuta, em Campo Grande, MS."
+  },
+  "rodape": {
+    "direitos": "Todos os direitos reservados.",
+    "credito": "Desenvolvido por",
+    "desenvolvedor": "Wender Galan",
+    "githubUrl": "https://github.com/WenderGalan"
+  }
+}
