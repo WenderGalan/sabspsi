@@ -100,3 +100,7 @@
 .perguntas-lista h3{font-family:'Instrument Serif',Georgia,serif;font-size:clamp(34px,3vw,47px);line-height:1.12;max-width:540px;margin-bottom:16px}
 .perguntas-lista p{font-size:16px;line-height:1.75;color:#514a54;max-width:580px}
 @media(max-width:700px){.perguntas{grid-template-columns:1fr;gap:54px}.perguntas-intro{position:static}.perguntas h2{font-size:clamp(60px,12vw,82px)}.perguntas-lista article{padding:28px 0 32px}.perguntas-lista p{font-size:15px}}
+
+.sobre-detalhe .doodle-asterisco{position:absolute;display:block;width:clamp(82px,10vw,130px);height:auto;right:-48px;top:-52px;color:#d09a84;transform:rotate(-14deg)}
+.olhar-estrela{display:block;width:70px;height:70px;flex:none;color:#64886f;transform:rotate(10deg)}
+@media(max-width:700px){.sobre-detalhe .doodle-asterisco{width:92px;right:-35px;top:-35px}.olhar-estrela{width:44px;height:44px}}

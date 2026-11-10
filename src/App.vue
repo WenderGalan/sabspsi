@@ -1,6 +1,7 @@
 <script setup>
 import { computed, onMounted, onUnmounted, ref } from 'vue'
 import dados from '../dados.json'
+import BurstMark from './BurstMark.vue'
 
 const cena = ref(null)
 const hero = ref(null)
@@ -116,14 +117,14 @@ onUnmounted(() => {
           <p>{{ dados.sobre.texto2 }}</p>
         </div>
       </div>
-      <div class="sobre-detalhe"><img :src="dados.pessoa.fotoLivro" :alt="dados.pessoa.fotoLivroAlt" loading="lazy" /><span class="doodle-asterisco" aria-hidden="true">✳</span><span class="doodle-orbita" aria-hidden="true"></span></div>
+      <div class="sobre-detalhe"><img :src="dados.pessoa.fotoLivro" :alt="dados.pessoa.fotoLivroAlt" loading="lazy" /><BurstMark class="doodle-asterisco" /><span class="doodle-orbita" aria-hidden="true"></span></div>
       <p class="sobre-assinatura">{{ dados.sobre.legenda }}</p>
     </section>
 
     <section id="olhar" class="olhar section-shell">
       <div class="olhar-topo">
         <p class="eyebrow" data-reveal="fade">{{ dados.olhar.marcador }}</p>
-        <span class="olhar-estrela" aria-hidden="true">✳</span>
+        <BurstMark class="olhar-estrela" />
       </div>
       <h2 data-reveal="rise">{{ dados.olhar.titulo }}</h2>
       <div class="olhar-rodape">
